@@ -1,10 +1,11 @@
 """
 Concentration, aka Match Match, card game.
-To-do's:
-- get hint (and be penalized, e.g. 5 turns?)
-- reveal next matching card and be penalized?
-- add timer?
+John Berliner, DEV / Lab
+All rights reserved.
+Feel free to reproduce if credit is given.
+5/8/2020 
 """
+
 import tkinter as tk
 from card import Card
 from random import shuffle
